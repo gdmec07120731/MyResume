@@ -10,12 +10,12 @@
 
 
 ## 技术特长 ##
-- 熟悉使用git，apk编译,专注SDK开发。
-- 精通使用Android studio等开发工具。
+- 熟悉使用git，apktool反编译,专注SDK开发。
+- 熟悉使用Android studio等开发工具。
 - 有严谨的逻辑思维，规范的代码编写习惯。
 - 熟悉Java编程思想，项目经验丰富，有良好的软件设计架构能力。
-- 精通使用Android各类库，掌握retrofit、Okhttp、Rxjava、glide等最新的技术。
-- 精通游戏（unity3d、cocos2dx）接入各渠道安卓SDK。
+- 熟悉使用Android各类库，掌握retrofit、Okhttp、Rxjava、glide等最新的技术。
+- 熟悉游戏（unity3d、cocos2dx）接入各渠道安卓SDK。
 
 
 ## 工作经验 ##
